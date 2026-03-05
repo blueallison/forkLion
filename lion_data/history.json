@@ -1743,6 +1743,22 @@
         "special": "none"
       },
       "story": "Your lion evolved! Changes: pattern: swirls \u2192 fractals"
+    },
+    {
+      "timestamp": "2026-03-05T02:34:05.737754",
+      "dna_hash": "cd72918c2401d4d4",
+      "generation": 1,
+      "mutation_count": 4,
+      "rarity_score": 26.666666666666668,
+      "traits": {
+        "body_color": "bronze",
+        "face_expression": "winking",
+        "accessory": "bandana",
+        "pattern": "fractals",
+        "background": "beach",
+        "special": "none"
+      },
+      "story": "Your lion rested today. No visible changes."
     }
   ]
 }
