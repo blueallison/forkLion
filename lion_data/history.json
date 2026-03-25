@@ -2063,6 +2063,22 @@
         "special": "none"
       },
       "story": "Your lion rested today. No visible changes."
+    },
+    {
+      "timestamp": "2026-03-25T02:41:09.709883",
+      "dna_hash": "05bf34ee405d7962",
+      "generation": 1,
+      "mutation_count": 12,
+      "rarity_score": 35.0,
+      "traits": {
+        "body_color": "golden",
+        "face_expression": "zen",
+        "accessory": "bandana",
+        "pattern": "quantum",
+        "background": "beach",
+        "special": "none"
+      },
+      "story": "Your lion evolved! Changes: pattern: fractals \u2192 quantum"
     }
   ]
 }
