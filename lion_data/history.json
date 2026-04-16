@@ -2415,6 +2415,22 @@
         "special": "shadow"
       },
       "story": "Your lion evolved! Changes: pattern: aurora \u2192 void"
+    },
+    {
+      "timestamp": "2026-04-16T03:24:59.803301",
+      "dna_hash": "46010ae107246e5f",
+      "generation": 1,
+      "mutation_count": 26,
+      "rarity_score": 35.0,
+      "traits": {
+        "body_color": "silver",
+        "face_expression": "winking",
+        "accessory": "bandana",
+        "pattern": "void",
+        "background": "green_grass",
+        "special": "sparkles"
+      },
+      "story": "Your lion evolved! Changes: background: sunset \u2192 green_grass, special: shadow \u2192 sparkles"
     }
   ]
 }
