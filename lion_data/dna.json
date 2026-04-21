@@ -1,8 +1,8 @@
 {
   "generation": 2,
   "parent_id": "170c02fb22e2db2f",
-  "dna_hash": "5745027512508b84",
-  "mutation_count": 2,
+  "dna_hash": "39d83412b402c636",
+  "mutation_count": 4,
   "birth_timestamp": 54625,
   "traits": {
     "body_color": {
@@ -16,9 +16,9 @@
       "gene_sequence": "7d0bf056"
     },
     "accessory": {
-      "value": "horns",
+      "value": "wizard_hat",
       "rarity": "rare",
-      "gene_sequence": "f9a6847e"
+      "gene_sequence": "0feb35ef"
     },
     "pattern": {
       "value": "stripes",
