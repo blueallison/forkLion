@@ -2527,6 +2527,22 @@
         "special": "none"
       },
       "story": "Your lion evolved! Changes: accessory: horns \u2192 wizard_hat"
+    },
+    {
+      "timestamp": "2026-04-22T06:24:04.815322",
+      "dna_hash": "39d83412b402c636",
+      "generation": 2,
+      "mutation_count": 4,
+      "rarity_score": 18.333333333333332,
+      "traits": {
+        "body_color": "bronze",
+        "face_expression": "curious",
+        "accessory": "wizard_hat",
+        "pattern": "stripes",
+        "background": "white",
+        "special": "none"
+      },
+      "story": "Your lion rested today. No visible changes."
     }
   ]
 }
