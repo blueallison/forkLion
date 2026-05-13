@@ -2863,6 +2863,22 @@
         "special": "none"
       },
       "story": "Your lion evolved! Changes: pattern: gradient \u2192 stripes, background: white \u2192 blue_sky"
+    },
+    {
+      "timestamp": "2026-05-13T02:40:59.546111",
+      "dna_hash": "d1f255be74a5aca4",
+      "generation": 2,
+      "mutation_count": 16,
+      "rarity_score": 18.333333333333332,
+      "traits": {
+        "body_color": "tan",
+        "face_expression": "excited",
+        "accessory": "halo",
+        "pattern": "stripes",
+        "background": "blue_sky",
+        "special": "none"
+      },
+      "story": "Your lion evolved! Changes: body_color: bronze \u2192 tan"
     }
   ]
 }
