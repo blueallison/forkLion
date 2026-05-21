@@ -1,8 +1,8 @@
 {
   "generation": 2,
   "parent_id": "170c02fb22e2db2f",
-  "dna_hash": "268e9f2812c28cf5",
-  "mutation_count": 20,
+  "dna_hash": "3a2b3d7d0d2c8932",
+  "mutation_count": 21,
   "birth_timestamp": 54625,
   "traits": {
     "body_color": {
@@ -16,9 +16,9 @@
       "gene_sequence": "0f873f07"
     },
     "accessory": {
-      "value": "halo",
-      "rarity": "rare",
-      "gene_sequence": "8e822e38"
+      "value": "diamond_chain",
+      "rarity": "legendary",
+      "gene_sequence": "db9cd265"
     },
     "pattern": {
       "value": "spots",
@@ -36,5 +36,5 @@
       "gene_sequence": "db06738c"
     }
   },
-  "rarity_score": 25.0
+  "rarity_score": 33.33333333333333
 }
