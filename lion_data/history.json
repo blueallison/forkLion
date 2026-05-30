@@ -3135,6 +3135,22 @@
         "special": "shadow"
       },
       "story": "Your lion evolved! Changes: background: blue_sky \u2192 green_grass"
+    },
+    {
+      "timestamp": "2026-05-30T02:39:12.801617",
+      "dna_hash": "76895a6cbb48ba26",
+      "generation": 2,
+      "mutation_count": 24,
+      "rarity_score": 33.33333333333333,
+      "traits": {
+        "body_color": "brown",
+        "face_expression": "surprised",
+        "accessory": "diamond_chain",
+        "pattern": "solid",
+        "background": "green_grass",
+        "special": "shadow"
+      },
+      "story": "Your lion rested today. No visible changes."
     }
   ]
 }
