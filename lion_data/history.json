@@ -3279,6 +3279,22 @@
         "special": "shadow"
       },
       "story": "Your lion evolved! Changes: face_expression: surprised \u2192 zen"
+    },
+    {
+      "timestamp": "2026-06-08T03:29:46.424135",
+      "dna_hash": "cce6279f795dbb1a",
+      "generation": 2,
+      "mutation_count": 29,
+      "rarity_score": 35.0,
+      "traits": {
+        "body_color": "tan",
+        "face_expression": "laughing",
+        "accessory": "diamond_chain",
+        "pattern": "solid",
+        "background": "city",
+        "special": "shadow"
+      },
+      "story": "Your lion evolved! Changes: face_expression: zen \u2192 laughing"
     }
   ]
 }
