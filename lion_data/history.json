@@ -3311,6 +3311,22 @@
         "special": "shadow"
       },
       "story": "Your lion evolved! Changes: body_color: tan \u2192 beige"
+    },
+    {
+      "timestamp": "2026-06-10T02:54:00.902080",
+      "dna_hash": "3f409d628a0b36e4",
+      "generation": 2,
+      "mutation_count": 31,
+      "rarity_score": 26.666666666666668,
+      "traits": {
+        "body_color": "beige",
+        "face_expression": "laughing",
+        "accessory": "laser_eyes",
+        "pattern": "solid",
+        "background": "city",
+        "special": "shadow"
+      },
+      "story": "Your lion evolved! Changes: accessory: diamond_chain \u2192 laser_eyes"
     }
   ]
 }
