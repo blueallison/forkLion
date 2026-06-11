@@ -3327,6 +3327,22 @@
         "special": "shadow"
       },
       "story": "Your lion evolved! Changes: accessory: diamond_chain \u2192 laser_eyes"
+    },
+    {
+      "timestamp": "2026-06-11T03:27:15.510894",
+      "dna_hash": "cfd5ba951477eb0b",
+      "generation": 2,
+      "mutation_count": 32,
+      "rarity_score": 26.666666666666668,
+      "traits": {
+        "body_color": "beige",
+        "face_expression": "laughing",
+        "accessory": "wizard_hat",
+        "pattern": "solid",
+        "background": "city",
+        "special": "shadow"
+      },
+      "story": "Your lion evolved! Changes: accessory: laser_eyes \u2192 wizard_hat"
     }
   ]
 }
