@@ -3343,6 +3343,22 @@
         "special": "shadow"
       },
       "story": "Your lion evolved! Changes: accessory: laser_eyes \u2192 wizard_hat"
+    },
+    {
+      "timestamp": "2026-06-12T03:27:03.938318",
+      "dna_hash": "f78989e937bd9847",
+      "generation": 2,
+      "mutation_count": 33,
+      "rarity_score": 21.666666666666668,
+      "traits": {
+        "body_color": "beige",
+        "face_expression": "laughing",
+        "accessory": "crown",
+        "pattern": "solid",
+        "background": "city",
+        "special": "shadow"
+      },
+      "story": "Your lion evolved! Changes: accessory: wizard_hat \u2192 crown"
     }
   ]
 }
