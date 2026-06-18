@@ -90,9 +90,9 @@ In **Actions** → **Daily Evolution** → **Enable workflow**
 
 <!-- LION_STATS_START -->
 - **Generation**: 2
-- **Age**: 215 days
-- **Mutations**: 37
-- **Rarity Score**: 20.0/100
+- **Age**: 216 days
+- **Mutations**: 39
+- **Rarity Score**: 21.7/100
 <!-- LION_STATS_END -->
 
 ## Family Tree
