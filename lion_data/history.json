@@ -3471,6 +3471,22 @@
         "special": "sparkles"
       },
       "story": "Your lion evolved! Changes: pattern: solid \u2192 spots, special: shadow \u2192 sparkles"
+    },
+    {
+      "timestamp": "2026-06-20T02:51:47.028779",
+      "dna_hash": "310110f99d0ac3a6",
+      "generation": 2,
+      "mutation_count": 42,
+      "rarity_score": 21.666666666666668,
+      "traits": {
+        "body_color": "beige",
+        "face_expression": "laughing",
+        "accessory": "headphones",
+        "pattern": "spots",
+        "background": "city",
+        "special": "sparkles"
+      },
+      "story": "Your lion rested today. No visible changes."
     }
   ]
 }
