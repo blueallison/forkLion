@@ -3567,6 +3567,22 @@
         "special": "glow"
       },
       "story": "Your lion evolved! Changes: body_color: beige \u2192 silver, special: sparkles \u2192 glow"
+    },
+    {
+      "timestamp": "2026-06-26T02:51:11.571748",
+      "dna_hash": "5638cbcedba81a32",
+      "generation": 2,
+      "mutation_count": 47,
+      "rarity_score": 23.333333333333332,
+      "traits": {
+        "body_color": "copper",
+        "face_expression": "winking",
+        "accessory": "headphones",
+        "pattern": "spots",
+        "background": "city",
+        "special": "glow"
+      },
+      "story": "Your lion evolved! Changes: body_color: silver \u2192 copper"
     }
   ]
 }
