@@ -3903,6 +3903,22 @@
         "special": "glow"
       },
       "story": "Your lion evolved! Changes: face_expression: wise \u2192 cool"
+    },
+    {
+      "timestamp": "2026-07-17T02:09:35.924481",
+      "dna_hash": "7574cf8a6ebbcc4a",
+      "generation": 2,
+      "mutation_count": 59,
+      "rarity_score": 25.0,
+      "traits": {
+        "body_color": "copper",
+        "face_expression": "cool",
+        "accessory": "horns",
+        "pattern": "swirls",
+        "background": "city",
+        "special": "glow"
+      },
+      "story": "Your lion evolved! Changes: pattern: solid \u2192 swirls"
     }
   ]
 }
