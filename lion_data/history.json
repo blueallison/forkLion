@@ -3951,6 +3951,22 @@
         "special": "shadow"
       },
       "story": "Your lion evolved! Changes: pattern: swirls \u2192 diamonds"
+    },
+    {
+      "timestamp": "2026-07-20T02:30:24.555504",
+      "dna_hash": "f392aa8ec65802fb",
+      "generation": 2,
+      "mutation_count": 64,
+      "rarity_score": 25.0,
+      "traits": {
+        "body_color": "copper",
+        "face_expression": "excited",
+        "accessory": "horns",
+        "pattern": "diamonds",
+        "background": "city",
+        "special": "sparkles"
+      },
+      "story": "Your lion evolved! Changes: special: shadow \u2192 sparkles"
     }
   ]
 }
