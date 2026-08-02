@@ -1,8 +1,8 @@
 {
   "generation": 2,
   "parent_id": "170c02fb22e2db2f",
-  "dna_hash": "cc4078b6f28892f0",
-  "mutation_count": 69,
+  "dna_hash": "3dc6417cc26bca28",
+  "mutation_count": 71,
   "birth_timestamp": 54625,
   "traits": {
     "body_color": {
@@ -16,9 +16,9 @@
       "gene_sequence": "abb5bfe3"
     },
     "accessory": {
-      "value": "horns",
-      "rarity": "rare",
-      "gene_sequence": "f9a6847e"
+      "value": "sunglasses",
+      "rarity": "uncommon",
+      "gene_sequence": "128d27c9"
     },
     "pattern": {
       "value": "diamonds",
@@ -26,9 +26,9 @@
       "gene_sequence": "e725e0b9"
     },
     "background": {
-      "value": "city",
-      "rarity": "uncommon",
-      "gene_sequence": "2071a1d4"
+      "value": "underwater",
+      "rarity": "rare",
+      "gene_sequence": "cf097d16"
     },
     "special": {
       "value": "particles",
