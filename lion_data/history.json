@@ -4591,6 +4591,22 @@
         "special": "particles"
       },
       "story": "Your lion evolved! Changes: pattern: hearts \u2192 diamonds"
+    },
+    {
+      "timestamp": "2026-08-29T05:17:05.436722",
+      "dna_hash": "25b1d8d9255bc246",
+      "generation": 2,
+      "mutation_count": 89,
+      "rarity_score": 43.333333333333336,
+      "traits": {
+        "body_color": "holographic",
+        "face_expression": "surprised",
+        "accessory": "sunglasses",
+        "pattern": "hearts",
+        "background": "beach",
+        "special": "particles"
+      },
+      "story": "Your lion evolved! Changes: pattern: diamonds \u2192 hearts"
     }
   ]
 }
