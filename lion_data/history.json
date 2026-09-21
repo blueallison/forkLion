@@ -4959,6 +4959,22 @@
         "special": "particles"
       },
       "story": "Your lion evolved! Changes: body_color: holographic \u2192 purple"
+    },
+    {
+      "timestamp": "2026-09-21T02:56:41.643548",
+      "dna_hash": "ae61b68e67710558",
+      "generation": 2,
+      "mutation_count": 94,
+      "rarity_score": 33.33333333333333,
+      "traits": {
+        "body_color": "purple",
+        "face_expression": "surprised",
+        "accessory": "sunglasses",
+        "pattern": "diamonds",
+        "background": "sunset",
+        "special": "particles"
+      },
+      "story": "Your lion rested today. No visible changes."
     }
   ]
 }
