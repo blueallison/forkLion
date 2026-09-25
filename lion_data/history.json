@@ -5023,6 +5023,22 @@
         "special": "particles"
       },
       "story": "Your lion rested today. No visible changes."
+    },
+    {
+      "timestamp": "2026-09-25T03:04:15.637230",
+      "dna_hash": "436464d949c2ffec",
+      "generation": 2,
+      "mutation_count": 96,
+      "rarity_score": 33.33333333333333,
+      "traits": {
+        "body_color": "purple",
+        "face_expression": "surprised",
+        "accessory": "sunglasses",
+        "pattern": "diamonds",
+        "background": "sunset",
+        "special": "energy"
+      },
+      "story": "Your lion evolved! Changes: special: particles \u2192 energy"
     }
   ]
 }
