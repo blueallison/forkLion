@@ -5471,6 +5471,22 @@
         "special": "aura"
       },
       "story": "Your lion evolved! Changes: body_color: purple \u2192 blue, face_expression: zen \u2192 surprised, background: white \u2192 green_grass"
+    },
+    {
+      "timestamp": "2026-10-23T03:01:29.284229",
+      "dna_hash": "e26801cf0ccb114e",
+      "generation": 2,
+      "mutation_count": 112,
+      "rarity_score": 36.666666666666664,
+      "traits": {
+        "body_color": "blue",
+        "face_expression": "surprised",
+        "accessory": "horns",
+        "pattern": "solid",
+        "background": "green_grass",
+        "special": "aura"
+      },
+      "story": "Your lion rested today. No visible changes."
     }
   ]
 }
