@@ -5487,6 +5487,22 @@
         "special": "aura"
       },
       "story": "Your lion rested today. No visible changes."
+    },
+    {
+      "timestamp": "2026-10-24T02:58:35.675477",
+      "dna_hash": "2951eae0291677ff",
+      "generation": 2,
+      "mutation_count": 114,
+      "rarity_score": 40.0,
+      "traits": {
+        "body_color": "blue",
+        "face_expression": "enlightened",
+        "accessory": "headphones",
+        "pattern": "solid",
+        "background": "green_grass",
+        "special": "aura"
+      },
+      "story": "Your lion evolved! Changes: face_expression: surprised \u2192 enlightened, accessory: horns \u2192 headphones"
     }
   ]
 }
