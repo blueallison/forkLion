@@ -5807,6 +5807,22 @@
         "special": "aura"
       },
       "story": "Your lion rested today. No visible changes."
+    },
+    {
+      "timestamp": "2026-11-13T04:43:23.959130",
+      "dna_hash": "e7cdb616d0695611",
+      "generation": 2,
+      "mutation_count": 127,
+      "rarity_score": 53.333333333333336,
+      "traits": {
+        "body_color": "green",
+        "face_expression": "legendary",
+        "accessory": "golden_crown",
+        "pattern": "solid",
+        "background": "green_grass",
+        "special": "aura"
+      },
+      "story": "Your lion evolved! Changes: background: white \u2192 green_grass"
     }
   ]
 }
