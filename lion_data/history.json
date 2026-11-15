@@ -5839,6 +5839,22 @@
         "special": "godlike"
       },
       "story": "Your lion evolved! Changes: special: aura \u2192 godlike"
+    },
+    {
+      "timestamp": "2026-11-15T04:27:41.251096",
+      "dna_hash": "517618d14bb4d681",
+      "generation": 2,
+      "mutation_count": 130,
+      "rarity_score": 53.333333333333336,
+      "traits": {
+        "body_color": "green",
+        "face_expression": "laughing",
+        "accessory": "golden_crown",
+        "pattern": "solid",
+        "background": "green_grass",
+        "special": "mythical"
+      },
+      "story": "Your lion evolved! Changes: face_expression: legendary \u2192 laughing, special: godlike \u2192 mythical"
     }
   ]
 }
